@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "food": [
+            "Pizza", "Burger", "Pasta", "Sushi", "Tacos", "Salad", "Steak", "Sandwich", "Fries", "Waffles",
+            "Pancakes", "Burrito", "Nachos", "Hotdog", "Ramen", "Soup", "Dumplings", "Curry", "Paella", "Falafel",
+            "Quesadilla", "Lasagna", "Risotto", "Gnocchi", "Fajitas", "Crepes", "Churros", "Muffins", "Brownies", "Cupcakes",
+            "IceCream", "Cheesecake", "Donuts", "Bagel", "Croissant", "Baguette", "Toast", "Omelette", "ScrambledEggs", "Bacon",
+            "AvocadoToast", "GrilledCheese", "Pita", "Hummus", "Shawarma", "Kebab", "Meatballs", "Samosa", "Empanada", "SpringRolls",
+            "Spaghetti", "Macaroni", "Tiramisu", "Pudding", "Smoothie", "Chocolate", "Candy", "Popcorn", "Sausage", "BBQ"
+        ],
+        "animals": [
+            "Dog", "Cat", "Cow", "Sheep", "Horse", "Pig", "Goat", "Chicken", "Duck", "Goose",
+            "Elephant", "Lion", "Tiger", "Bear", "Giraffe", "Rabbit", "Frog", "Fish", "Wolf", "Fox"
+        ]
+}
+}
